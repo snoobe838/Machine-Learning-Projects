@@ -20,15 +20,27 @@ Predicts salary based on academic score and experience using regression algorith
 
 ---
 
-## 🧪 Supervised Classification Projects
+## 🧪 Classification & Machine Learning Projects
 
 🔹 **Survival Prediction using Classification Analysis**  
 Predicts passenger survival using ML classifiers like Logistic Regression, Decision Trees, and SVM.  
 🔗 https://github.com/snoobe838/Supervised-Classification-Analysis-to-predict-the-survival
 
+🔹 **SMS & Email Spam Classifier**  
+Machine learning model that classifies SMS and emails as spam or ham using NLP feature extraction (TF-IDF, Bag-of-Words).  
+🔗 https://github.com/snoobe838/SMS-Email_Spam_classifier
+
+---
+
+## 🗂️ NLP & Sentiment Analysis Projects
+
 🔹 **Review Classification using Sentiment Analysis**  
-NLP-based text classification model to detect positive and negative reviews.  
+NLP-based text classification model to detect positive and negative reviews using preprocessing and ML classifiers.  
 🔗 https://github.com/snoobe838/Reviews-classificatio-using-sentimental-analysis
+
+🔹 **SMS & Email Spam Classifier** *(also relevant here)*  
+Text classification model using TF-IDF vectorization and supervised ML models to detect spam messages.  
+🔗 https://github.com/snoobe838/SMS-Email_Spam_classifier
 
 ---
 
@@ -44,21 +56,22 @@ Segments customers as potential targets using K-Means clustering.
 
 🔸 Python  
 🔸 Scikit-Learn, Pandas, NumPy  
+🔸 NLTK, TextBlob, TF-IDF, Bag-of-Words  
 🔸 Matplotlib, Seaborn  
-🔸 NLTK, TextBlob  
-🔸 Google Colab, Jupyter Notebook
+🔸 Google Colab, Jupyter Notebook  
 
 ---
 
 ## 🚀 Key Machine Learning Concepts Applied
 
 ✔ Linear & Multiple Regression  
-✔ Classification Models (Logistic Regression, Decision Trees, SVM)  
+✔ Classification (Logistic Regression, Decision Trees, SVM, Naive Bayes)  
 ✔ K-Means Clustering  
-✔ Sentiment Analysis and NLP  
+✔ NLP & TF-IDF, Bag-of-Words  
+✔ Sentiment & Spam Detection  
 ✔ Feature Engineering  
-✔ Model Evaluation (Accuracy, RMSE, Precision, Silhouette Score)  
-✔ Data Preprocessing & EDA
+✔ Evaluation Metrics (Accuracy, RMSE, Precision, Recall, Silhouette Score)  
+✔ Exploratory Data Analysis (EDA)
 
 ---
 
